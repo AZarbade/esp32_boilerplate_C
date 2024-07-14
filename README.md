@@ -15,7 +15,7 @@ ESP32 Boilerplate is a starting point repository written in C specifically for E
 To use this boilerplate, simply clone the repository:
 
 ```
-git clone 'add repo link here'
+git clone https://github.com/AZarbade/esp32_boilerplate_C.git
 ```
 
 ## Contributing
